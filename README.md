@@ -1,3 +1,2 @@
-# CLLO
-CloudLogistics CODE
+# Cloud Logistics
 Cloud Logistics, referred to as CLLO, symbolizes the innate advantages of blockchain technology, bridges the blockchain and logistics cloud, and builds a logistics chain based on blockchain technology, which creates a new direction for global intelligent logistics. The cloud chain blockchain is a decentralized blockchain platform based on blockchain technology, in terms of consensus mechanisms, transaction processing performance, storage performance and smart contracts, as well as digital currency chaining, consensus algorithms, Privacy and compliance are very rigorous, decentralized research and development of its own public chain system, cloud chain blockchain based on the credit system, establish a smart logistics ecosystem, and cooperate with various financial institutions and physical industries to jointly build The application ecology of blockchain + finance + industry + logistics.
